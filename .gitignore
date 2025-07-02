@@ -1,0 +1,14 @@
+# Windows & general
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node (if you add npm later)
+node_modules/
+dist/
+
+# Python virtual envs (if you test Flask locally)
+venv/
+.env
